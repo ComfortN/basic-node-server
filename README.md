@@ -4,7 +4,7 @@ This project demonstrates a simple Node.js server deployed on Vercel.
 
 ## Project Overview
 
-This application is a basic Express.js server that responds with "Hello World!" when accessed. It's designed to be easily deployed to Vercel, a cloud platform for static and serverless deployment.
+This application is a basic Express.js server that responds with "Hello... " when accessed. It's designed to be easily deployed to Vercel, a cloud platform for static and serverless deployment.
 
 ## Getting Started
 
